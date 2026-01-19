@@ -1,0 +1,27 @@
+body,
+html {
+  text-align: center;
+  height: 100%;
+}
+
+.kuningIjo {
+  background-color: yellowgreen;
+}
+
+.kotak {
+  width: 25px;
+  height: 25px;
+  margin: 10px auto;
+}
+
+.merah {
+  background-color: red;
+}
+
+.hijau {
+  background-color: green;
+}
+
+.biru {
+  background-color: blue;
+}
